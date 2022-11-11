@@ -16,10 +16,10 @@ expect from this organization you can look around and see what catches your eye 
 For now open an issue in a repository and we will respond with appropriate steps to take. This page will be updated in future for further guides on how to
 contribute as the organization grows in scope and size.
 
-## Useful resources
+## 👩‍💻 Useful resources
 
 You can take a peek at the wikis of public repositories belonging to the organization for more information on the particular repositories.
-Check out also our discord for more personal interactions, you can also ask questions there 👩‍💻.
+Check out our [discord](https://discord.gg/7e5PAqnbdp) for more personal interactions, you can also ask questions there .
 
 ## 🍿 Fun facts
 
