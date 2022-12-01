@@ -6,10 +6,7 @@
 
 Greetings, since you are looking at this we guess you are interested in what our little organization is all about. Three words; Mathematics, Programming
 and Problems. Now what do those have to do with what we want to accomplish here? In short, we want to use a rich mixture of mathematics, programming and
-computers to solve problems plaguing our community. The name of the organization gives a clue as to what particular problem we are solving currently, the
-problem of relief and in particular, how do we use peer actors in the pursuit of the solution? This is a rather hard problem but we believe that with your
-help and the tools available from the realm of mathematics and programming we will prevail. Now that we have given you a brief overview of what you might
-expect from this organization you can look around and see what catches your eye and start helping.
+computers to solve problems plaguing our community. We shall start with the relief problem and see what happens.
 
 We are currently very early stage and as such we could use all the help we can get.
 
