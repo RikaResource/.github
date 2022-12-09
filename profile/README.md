@@ -12,15 +12,15 @@ We are currently very early stage and as such we could use all the help we can g
 
 ## Contribution guidelines
 
-For now open an issue in a repository and we will respond with appropriate steps to take. This page will be updated in future for further guides on how to
-contribute as the organization grows in scope and size.
+For now open an issue in [this](https://github.com/RikaRelief/.github) repository and we will respond with appropriate steps to take. This page will be
+updated in future for further guides on how to contribute as the organization grows in scope and size.
 
 ## 👩‍💻 Useful resources
 
 You can take a peek at the wikis of public repositories belonging to the organization for more information on the particular repositories.
 Check out our [discord](https://discord.gg/7e5PAqnbdp) for more personal interactions, you can also ask questions there.
 
-Join our Swae [workspace](https://rikarelief.swae.io/sign-up) for discussions of ideas our goals.
+Join our Swae [workspace](https://rikarelief.swae.io/sign-up) for discussions of ideas and our goals.
 
 ## 🍿 Fun facts
 
