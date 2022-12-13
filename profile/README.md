@@ -22,6 +22,8 @@ Check out our [discord](https://discord.gg/7e5PAqnbdp) for more personal interac
 
 Join our Swae [workspace](https://rikarelief.swae.io/sign-up) for discussions of ideas and our goals.
 
+Here is a [wiki](https://github.com/RikaRelief/.github/wiki) highlighting some information about the organization and the platform.
+
 ## 🍿 Fun facts
 
 - We eat proofs for breakfast
