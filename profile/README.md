@@ -5,8 +5,9 @@
 ## 🙋‍♀️ Introduction
 
 Greetings, since you are looking at this we guess you are interested in what our little organization is all about. Three words; Mathematics, Programming
-and Problems. Now what do those have to do with what we want to accomplish here? In short, we want to use a rich mixture of mathematics, programming and
-computers to solve problems plaguing our community. We shall start with the relief problem and see what happens.
+and Problems. Now what do those have to do with what we want to accomplish here? We'll employ concepts from mathematics, programming and
+computers, among other disciplines to solve problems plaguing our community. We shall start with the relief problem and see what happens. This
+multi-disciplinary approach will help us see the problems we choose to tackle through diverse light.
 
 We are currently very early stage and as such we could use all the help we can get.
 
