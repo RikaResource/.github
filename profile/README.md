@@ -1,6 +1,6 @@
-<h2 align="center">
+<p align="center">
 <img width="auto" height="100px" src="https://github.com/RikaRelief/rika-relief-designs/blob/main/logo.png"/>
-<h2>
+</p>
 
 <h1 align="center">
     <span>RikaRelief</span>
