@@ -1,4 +1,10 @@
-# RikaRelief
+<h1 align="center">
+<img width="auto" height="100px" src="../logo.png"/>
+<h2>
+
+<h1 align="center">
+    <span>RikaRelief</span>
+</h1>
 
 ## Hi there 👋
 
