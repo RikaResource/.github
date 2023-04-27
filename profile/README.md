@@ -1,22 +1,27 @@
 # RikaRelief
 
-<!-- ## Hi there 👋 -->
+## Hi there 👋
 
 ## 🙋‍♀️ Introduction
 
-Greetings, since you are looking at this we guess you are interested in what the organization is all about. We are aiming to solve the relief
-problem using a mix of technologies and disciplines. As the name suggests this will be a peer driven effort both in developing the technologies involved
-and also carrying out the relief goals.
+RikaRelief is an organization aimed at solving resource related problems. For instance; famine relief.
 
-Design, Mathematics, Programming and Problems. Now what do those have to do with what we want to accomplish here? We'll employ concepts from mathematics,
-programming and computers, among other disciplines to help solve problems plaguing our community. We shall start with the relief problem and see what
-happens. This multi-disciplinary approach will help us see the problems we choose to tackle through diverse light.
+We'll employ concepts from design, mathematics, computer science and economics, among other disciplines to help solve problems plaguing various
+communities. This multi-disciplinary approach will help us see the problems we choose to tackle through diverse light.
 
-## Contribution guidelines
+As the name suggests this will be a peer driven effort both in building the technologies involved and also in the functioning of the system.
 
-If this seems like something you are into, even remotely, please do reach out.
+## The Vision
 
-We are currently very early stage and as such we could use all the help we can get.
+We want to create a network of community controlled resources that are used to solve problems contributed to the network. We will start with disaster
+relief problems and later we hope to allow any other resource related problem. Additionally, as this is partly a scientific exploration in the use of novel
+economic systems we want to do as many 'crazy' things in the design and implementation of resource organization (management) as we can.
+
+## How you can help
+
+If this seems like something you are into, feel free to reach out.
+
+We are currently at a very early stage and as such we could use all the help we can get.
 
 For now open an issue in [this](https://github.com/RikaRelief/.github) repository and we will respond with appropriate steps to take. This page will be
 updated in future for further guides on how to contribute as the organization grows in scope and size.
