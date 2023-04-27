@@ -1,5 +1,5 @@
 <h2 align="center">
-<img width="auto" height="100px" src="./logo.png"/>
+<img width="auto" height="100px" src="https://github.com/RikaRelief/rika-relief-designs/blob/main/logo.png"/>
 <h2>
 
 <h1 align="center">
