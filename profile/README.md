@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ Introduction
 
-Greetings, since you are looking at this we guess you are interested in what our little organization is all about. We are aiming to solve the relief
+Greetings, since you are looking at this we guess you are interested in what the organization is all about. We are aiming to solve the relief
 problem using a mix of technologies and disciplines. As the name suggests this will be a peer driven effort both in developing the technologies involved
 and also carrying out the relief goals.
 
@@ -33,26 +33,8 @@ interesting entries.
 
 - We formalize anything we can, makes life easier.
 - We play with shapes all day.
-- We engage in a form of wizardry called mathemagic 🧙.
+- We engage in a form of wizardry known by some as mathemagic 🧙.
 
-## Organization main components
-
-- **Research**: This arm is mainly concerned with the research goals of the organization, particularly in line with the current problem(s) we would be
-  tackling, this will involve writing papers and blog posts to showcase what the relevant parties have been up to. We'll mostly be using the language of
-  of category theory to guide our research endeavors.
-
-- **Development**: This will deal with the products we'll be building to help solve the problem(s) we are working on. This will mainly comprise of software for now.
-
-- **Design**: This will be the dreaming section. Here we'll have all things software design, UI design, UX design, graphic design and anything that can be labelled a design activity.
-
-- **Public Relations**: For interaction with the *real* world, this will involve marketing, legal and other public facing matters.
-
-- **Finance**: All things money.
-
-Over time we plan to 'incorporate' all these divisions as internal software platforms which will be inline with our values. This will also be beneficial
-in terms of accountability, management and oversight.
-
-Contributions are welcome in all these areas and we are open to suggestions for more.
 <!--
 
 **Here are some ideas to get you started:**
