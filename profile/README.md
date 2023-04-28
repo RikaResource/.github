@@ -19,7 +19,7 @@ As the name suggests this will be a peer driven effort both in building the tech
 
 ## The Vision
 
-We want to create a network of community controlled resources that are used to solve problems contributed to the network. We will start with disaster
+We want to create a network of peer controlled resources that are used to solve problems contributed to the network. We will start with disaster
 relief problems and later we hope to allow any other resource related problem. Additionally, as this is partly a scientific exploration in the use of novel
 economic systems we want to do as many 'crazy' things in the design and implementation of resource organization (management) as we can.
 
