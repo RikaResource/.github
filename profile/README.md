@@ -12,8 +12,8 @@
 
 RikaRelief is an organization aimed at solving resource related problems. For instance; famine relief.
 
-We'll employ concepts from design, mathematics, computer science and economics, among other disciplines to help solve problems plaguing various
-communities. This multi-disciplinary approach will help us see the problems we choose to tackle through diverse light.
+We employ concepts from design, mathematics, computer science and economics, among other disciplines to help solve problems plaguing various
+communities. This multi-disciplinary approach helps us see the problems we choose to tackle through diverse light.
 
 As the name suggests this will be a peer driven effort both in building the technologies involved and also in the functioning of the system.
 
