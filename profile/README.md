@@ -35,7 +35,7 @@ updated in future for further guides on how to contribute as the organization gr
 ## 👩‍💻 Useful resources
 
 You can take a peek at the wikis of public repositories belonging to the organization for more information on the particular repositories.
-Check out our [discord](https://discord.gg/7e5PAqnbdp) for more personal interactions, you can also ask questions there.
+Join the [discord](https://discord.gg/7e5PAqnbdp) server for more personal interactions, you can also ask questions there.
 
 Here is a [wiki](https://github.com/RikaRelief/.github/wiki) highlighting some information about the organization and the platform. And some other
 interesting entries.
