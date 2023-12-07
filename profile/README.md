@@ -29,7 +29,7 @@ If this seems like something you are into, feel free to reach out.
 
 We are currently at a very early stage and as such we could use all the help we can get.
 
-Check out [this](https://github.com/RikaResource/guides/blob/main/CONTRIBUTING.md) for guides on how to participate. See you!
+Check out [this](https://github.com/RikaResource/guides/blob/main/CONTRIBUTING.md) for guides on how to participate. See you in cyberspace ...
 
 ## 👩‍💻 Useful resources
 
