@@ -29,8 +29,7 @@ If this seems like something you are into, feel free to reach out.
 
 We are currently at a very early stage and as such we could use all the help we can get.
 
-For now open an issue in [this](https://github.com/RikaRelief/.github) repository and we will respond with appropriate steps to take. This page will be
-updated in future for further guides on how to contribute as the organization grows in scope and size.
+Check out [this](https://github.com/RikaResource/guides/blob/main/CONTRIBUTING.md) for guides on how to participate. See you!
 
 ## 👩‍💻 Useful resources
 
