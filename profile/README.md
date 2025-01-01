@@ -3,23 +3,22 @@
 </p>
 
 <h1 align="center">
-    <span>RikaRelief</span>
+    <span>RikaResource</span>
 </h1>
 
 ## Hi there 👋
 
 ## 🙋‍♀️ Introduction
 
-RikaRelief is an organization aimed at solving resource related problems. For instance; famine relief.
+RikaResource is an organization aimed at solving resource related problems. For instance; efficient resource distribution, fully realized human potential etc.
 
-We employ concepts from design, mathematics, computer science and economics, among other disciplines to help solve problems plaguing various
-communities. This multi-disciplinary approach helps us see the problems we choose to tackle through diverse light.
+We employ concepts from design, mathematics, computer science and economics (in the true sense of the word), among other disciplines to help solve the current resource problems facing our world. This multi-disciplinary approach helps us see the problems we choose to tackle through diverse light.
 
 As the name suggests this will be a peer driven effort both in building the technologies involved and also in the functioning of the system.
 
 ## The Vision
 
-We want to create a network of peer controlled resources that are used to solve problems contributed to the network. We will start with disaster
+We want to create a network of peer controlled resources that are used to solve problems "contributed" to the network. We will start with disaster
 relief problems and later we hope to grow to any other resource related problem. Additionally, as this is partly a scientific exploration in the use of novel
 economic systems we want to do as many 'crazy' things in the design and implementation of resource organization (management) as we can.
 
